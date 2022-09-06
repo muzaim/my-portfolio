@@ -1,0 +1,10 @@
+.transition-effect {
+  position: fixed;
+  z-index: 1000000000000000;
+  /* background-color: #000; */
+  background-color: #fbe40e;
+  top: 0;
+  width: 100%;
+  /* height: min-content; */
+  height: 100vh;
+}
